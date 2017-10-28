@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">FootQ</string>
+    <string name="ques_one">1. Which of the country won FIFA World Cup maximum times?</string>
+    <string name="queOne_A">Germany</string>
+    <string name="queOne_B">Italy</string>
+    <string name="queOne_C">Argentina</string>
+    <string name="queOne_D">Brazil</string>
+
+    <string name="ques_two">2. Who among the following players scores maximum FIFA Wrold Cup goals?</string>
+    <string name="queTwo_A">Jurgen Klinsmann</string>
+    <string name="queTwo_B">Maradona</string>
+    <string name="queTwo_C">Miroslave Klose</string>
+    <string name="queTwo_D">Pele</string>
+
+    <string name="ques_three">3. When was the first FIFA World Cup inaugurated?</string>
+    <string name="queThree_A">1930</string>
+    <string name="queThree_B">1931</string>
+    <string name="queThree_C">1932</string>
+    <string name="queThree_D">1933</string>
+
+    <string name="ques_four">4. Which of the following team do not play in strips?</string>
+    <string name="queFour_A">Newcastle</string>
+    <string name="queFour_B">Southampton</string>
+    <string name="queFour_C">Tottenham Hotspur</string>
+    <string name="queFour_D">Loncoln City</string>
+
+    <string name="ques_five">5. Which of the country hosted first FIFA World Cup?</string>
+    <string name="queFive_A">America</string>
+    <string name="queFive_B">Argentina</string>
+    <string name="queFive_C">Brazil</string>
+    <string name="queFive_D">Uruguay</string>
+
+    <string name="ques_six">6. Who among the following achieved the first World Cup hat-trick?</string>
+    <string name="queSix_A">Johino</string>
+    <string name="queSix_B">Bert Patenaude</string>
+    <string name="queSix_C">Lucien Laurent</string>
+    <string name="queSix_D">Pele</string>
+
+    <string name="ques_seven">7. Who is the current FIFA Ballon D\'or holder?</string>
+    <string name="ques_eight">8. Which of the following players have played for Real Madrid?</string>
+    <string name="quesEight_A">Mesut Ozil</string>
+    <string name="quesEight_B">Sami Khedira</string>
+    <string name="quesEight_C">Miralem Pjanic</string>
+    <string name="quesEight_D">Xabi Alonso</string>
+</resources>
